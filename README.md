@@ -30,10 +30,10 @@
 
 ### 📫 Let's Connect
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/trinh.thai.50364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solivaquaant" height="30" width="40" /></a>
   <a href="https://www.instagram.com/tndt____/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
+
 - 📧 Feel free to reach out or explore my repositories!
 
