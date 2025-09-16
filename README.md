@@ -5,9 +5,9 @@
 <h1 align="center">Hi there 👋, I'm Thái Trinh</h1>
 
 <p align="center">
-  🎓 I'm a 3rd-year student majoring in Information Security at University of Information Technology - VietNam National University.<br>
-  🔐 Passionate about network security, web security, android security, malware analysis, and more.<br>
-  🗂️ This GitHub is where I store my personal projects, course assignments, and study materials.
+    🎓 I'm a final-year student majoring in Information Security at the University of Information Technology - Vietnam National University <br>
+    🛡️ Currently working as a SOC Intern, with strong interests in threat hunting, incidents response and digital forensics. <br>
+    🗂️ This GitHub is where I share my personal projects, course assignments, and study materials.
 </p>
 
 ---
@@ -29,11 +29,11 @@
 ---
 
 ### 📫 Let's Connect
+Feel free to reach out or explore my repositories!
 
 <p align="left">
   <a href="https://www.facebook.com/trinh.thai.50364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solivaquaant" height="30" width="40" /></a>
   <a href="https://www.instagram.com/tndt____/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
-- 📧 Feel free to reach out or explore my repositories!
 
