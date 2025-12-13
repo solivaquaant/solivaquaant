@@ -42,7 +42,7 @@
   <i>
     Final-year student majoring in Information Security at University of Information Technology – Vietnam National University.
   </i>
-
+  <br>
   <i>
     Currently working as a <b>SOC Analyst</b>.
   </i> 
@@ -121,13 +121,13 @@
       alt="X (Twitter)" 
     />
   </a> 
-  <a href="YOUR_LINKEDIN_LINK_HERE"> 
+  <a href="https://www.linkedin.com/in/trinh-thai-ngoc-diem-a53571208/"> 
     <img 
       src="https://img.shields.io/badge/LinkedIn-FFEFF2?style=for-the-badge&logo=linkedin&logoColor=FF9EAA" 
       alt="LinkedIn" 
     />
   </a>
-  <a href="YOUR_BLOG_LINK_HERE"> 
+  <a href="https://solivaquaant.github.io/my-small-blog/"> 
     <img 
       src="https://img.shields.io/badge/Personal%20Blog-FFEFF2?style=for-the-badge&logo=rss&logoColor=FF9EAA" 
       alt="Blog"
